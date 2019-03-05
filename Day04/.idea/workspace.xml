@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cf8c5a1-2d65-4d75-b934-b07b92074974" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test01/src/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test01/src/Demo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day04/com/wanchenyang/learn/TestArrayTwo05.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,13 +41,22 @@
         <option value="$PROJECT_DIR$/src/com/wanchennyang/learn/TestArrayTwo04.java" />
         <option value="$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayTwo04.java" />
         <option value="$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayTwo05.java" />
+        <option value="$PROJECT_DIR$/src/com/wanchenyang/homework/Test01.java" />
+        <option value="$PROJECT_DIR$/src/com/wanchenyang/homework/Test02.java" />
+        <option value="$PROJECT_DIR$/src/com/wanchenyang/homework/Test03.java" />
+        <option value="$PROJECT_DIR$/src/com/wanchenyang/homework/Test04.java" />
+        <option value="$PROJECT_DIR$/src/com/wanchenyang/homework/Extend01.java" />
+        <option value="$PROJECT_DIR$/src/com/wanchenyang/homework/Extend02.java" />
+        <option value="$PROJECT_DIR$/src/com/wanchenyang/homework/Extend03.java" />
+        <option value="$PROJECT_DIR$/src/com/wanchenyang/homework/Extend04.java" />
+        <option value="$PROJECT_DIR$/src/com/wanchenyang/homework/Extend05.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="246" />
-    <option name="y" value="11" />
-    <option name="width" value="1543" />
+    <option name="x" value="345" />
+    <option name="y" value="172" />
+    <option name="width" value="1545" />
     <option name="height" value="1103" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -62,34 +69,13 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Day04" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day04" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day04" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day04" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day04" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wanchenyang" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551686605539" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551698292148" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
@@ -106,13 +92,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestArrayTwo05">
-    <configuration name="TestArray04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanchennyang.learn.TestArray04" />
+  <component name="RunManager" selected="Application.Extend05">
+    <configuration name="Extend01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanchenyang.homework.Extend01" />
       <module name="Day04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wanchennyang.learn.*" />
+          <option name="PATTERN" value="com.wanchenyang.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArrayTwo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanchennyang.learn.TestArrayTwo02" />
+    <configuration name="Extend02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanchenyang.homework.Extend02" />
       <module name="Day04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wanchennyang.learn.*" />
+          <option name="PATTERN" value="com.wanchenyang.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArrayTwo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanchennyang.learn.TestArrayTwo03" />
+    <configuration name="Extend03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanchenyang.homework.Extend03" />
       <module name="Day04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wanchennyang.learn.*" />
+          <option name="PATTERN" value="com.wanchenyang.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArrayTwo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanchennyang.learn.TestArrayTwo04" />
+    <configuration name="Extend04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanchenyang.homework.Extend04" />
       <module name="Day04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wanchennyang.learn.*" />
+          <option name="PATTERN" value="com.wanchenyang.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArrayTwo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wanchenyang.learn.TestArrayTwo05" />
+    <configuration name="Extend05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanchenyang.homework.Extend05" />
       <module name="Day04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wanchenyang.learn.*" />
+          <option name="PATTERN" value="com.wanchenyang.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestArrayTwo05" />
-        <item itemvalue="Application.TestArrayTwo04" />
-        <item itemvalue="Application.TestArrayTwo03" />
-        <item itemvalue="Application.TestArrayTwo02" />
-        <item itemvalue="Application.TestArray04" />
+        <item itemvalue="Application.Extend05" />
+        <item itemvalue="Application.Extend04" />
+        <item itemvalue="Application.Extend03" />
+        <item itemvalue="Application.Extend02" />
+        <item itemvalue="Application.Extend01" />
       </list>
     </recent_temporary>
   </component>
@@ -193,17 +179,19 @@
       <option name="presentableId" value="Default" />
       <updated>1551660197062</updated>
       <workItem from="1551660198317" duration="10157000" />
-      <workItem from="1551679684490" duration="6603000" />
+      <workItem from="1551679684490" duration="9785000" />
+      <workItem from="1551696000823" duration="2326000" />
+      <workItem from="1551745889103" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16760000" />
+    <option name="totallyTimeSpent" value="22512000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="197" y="9" width="1234" height="882" extended-state="0" />
+    <frame x="276" y="138" width="1236" height="882" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21088435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2606112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -212,7 +200,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36595175" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13672923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3686327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,7 +210,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.33109918" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -338,17 +326,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayTwo05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayTwo05.java" />
     <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayTwo04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Test04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
