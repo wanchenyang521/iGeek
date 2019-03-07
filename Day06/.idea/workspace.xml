@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7e07697-9052-4288-88ff-eddc0b6e3d1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend05.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="930">
               <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
               <folding>
                 <element signature="e#252#253#0" expanded="true" />
@@ -118,8 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend06.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            <state relative-caret-position="180">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,8 +130,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="220">
+              <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -183,8 +183,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="438" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="195" />
+    <option name="y" value="50" />
     <option name="width" value="1700" />
     <option name="height" value="1103" />
   </component>
@@ -196,44 +197,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Day06" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day06" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day06" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day06" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day06" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wanchenyang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day06" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day06" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wanchenyang" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day06" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day06" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wanchenyang" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -350,16 +316,17 @@
       <workItem from="1551852584347" duration="9788000" />
       <workItem from="1551868724441" duration="8526000" />
       <workItem from="1551879104484" duration="2239000" />
+      <workItem from="1551918927928" duration="585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20925000" />
+    <option name="totallyTimeSpent" value="21510000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="156" y="40" width="1360" height="882" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16286863" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1889401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -578,7 +545,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="930">
           <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
           <folding>
             <element signature="e#252#253#0" expanded="true" />
@@ -589,8 +556,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend06.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        <state relative-caret-position="180">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -599,8 +566,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend07.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="220">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
