@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c7a8eb4-a038-4da3-926d-9091656c3e72" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend01User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
+            <state relative-caret-position="870">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#596#597#0" expanded="true" />
@@ -56,7 +56,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend01Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2970">
+            <state relative-caret-position="515">
               <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
             </state>
           </provider>
@@ -107,10 +107,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-43" />
-    <option name="y" value="42" />
+    <option name="x" value="282" />
+    <option name="y" value="62" />
     <option name="width" value="1935" />
-    <option name="height" value="974" />
+    <option name="height" value="975" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -120,40 +120,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="Day08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day08" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wanchenyang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wanchenyang" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day08" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day08" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wanchenyang" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="Day08" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -162,6 +131,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,16 +244,18 @@
       <workItem from="1552005466969" duration="10247000" />
       <workItem from="1552024630030" duration="10548000" />
       <workItem from="1552040935546" duration="7693000" />
+      <workItem from="1552112864814" duration="597000" />
+      <workItem from="1552264477677" duration="97000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28488000" />
+    <option name="totallyTimeSpent" value="29182000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-34" y="34" width="1548" height="779" extended-state="0" />
+    <frame x="226" y="50" width="1548" height="780" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18791947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1932886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -556,7 +529,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend01User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
+        <state relative-caret-position="870">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#596#597#0" expanded="true" />
@@ -580,7 +553,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/homework/Extend01Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2970">
+        <state relative-caret-position="515">
           <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
         </state>
       </provider>
