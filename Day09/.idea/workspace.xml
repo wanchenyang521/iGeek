@@ -2,33 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1a43d5d-3a5f-4741-ab28-e898131cc9aa" name="Default Changelist" comment="intellij Test">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/homework/Extend04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/homework/ExtendStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/homework/ExtendTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/homework/ExtendTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/homework/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/homework/StudentsTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/homework/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/homework/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/homework/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/homework/TestStudentTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/NoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/StudentOs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayList01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayList02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayList03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayList04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayList05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayList06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/TestNoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/TestObjectArray01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/TestObjectArray02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wanchenyang/learn/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11/src/com/wanchenyang/learn/TestStudentOs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/Day13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/src/com/wanchenyang/learn/CD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01/bin/com/wanchenyang/learn/TestPrimiviteTypeData3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day01/bin/com/wanchenyang/learn/TestPrimiviteTypeData3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01/bin/com/wanchenyang/work/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day01/bin/com/wanchenyang/work/Test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01/bin/com/wanchenyang/work/Test03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day01/bin/com/wanchenyang/work/Test03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01/bin/com/wanchenyang/work/Test04Plus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day01/bin/com/wanchenyang/work/Test04Plus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Extend01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Extend01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Extend02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Extend02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test04.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test05.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test06.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/homework/Test06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/learn/TestScannerEqual.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/learn/TestScannerEqual.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/learn/TestScannerMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/learn/TestScannerMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/learn/TestScannerSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02/bin/com/wanchenyang/learn/TestScannerSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Extend04.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Extend04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Extend05.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Extend05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Extend06.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Extend06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test04.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test05.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test06.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/homework/Test06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestBreak01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestBreak01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestFor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestFor03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestFor03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestIF.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestIF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestIF02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestIF02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestIfElseifElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestIfElseifElse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestSwitch2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03/bin/com/wanchenyang/learn/TestSwitch2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Day08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day08/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day10/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day10/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day10/FileWriterDemo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day10/FileWriterDemo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day10/src/com/wanchenyang/learn/FileWriterDemo.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,22 +63,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/TestStudent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="236" column="40" selection-start-line="236" selection-start-column="40" selection-end-line="236" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/StudentOs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="-313">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -115,11 +123,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="531" />
-    <option name="y" value="130" />
-    <option name="width" value="1760" />
-    <option name="height" value="850" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="92" />
+    <option name="y" value="63" />
+    <option name="width" value="1765" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -154,13 +162,6 @@
               <item name="Day09" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="wanchenyang" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day09" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day09" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wanchenyang" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -172,7 +173,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552355411775" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552528305526" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -287,11 +289,14 @@
       <workItem from="1552351565572" duration="3843000" />
       <workItem from="1552358910268" duration="21000" />
       <workItem from="1552437415568" duration="415000" />
+      <workItem from="1552527906939" duration="399000" />
+      <workItem from="1552869420941" duration="382000" />
+      <workItem from="1552979114207" duration="220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37913000" />
+    <option name="totallyTimeSpent" value="38914000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,9 +308,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="425" y="104" width="1408" height="680" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49896482" visible="true" weight="0.19629629" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49896482" visible="true" weight="0.18565683" />
       <window_info id="Structure" order="1" sideWeight="0.5010352" side_tool="true" weight="0.18096514" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -496,24 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/NoteBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -647,16 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/TestNoteBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/TestArrayList01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="636">
@@ -716,10 +693,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/TestNoteBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/NoteBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/TestStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="236" column="40" selection-start-line="236" selection-start-column="40" selection-end-line="236" selection-end-column="40" />
+        <state relative-caret-position="78">
+          <caret line="236" column="32" selection-start-line="236" selection-start-column="32" selection-end-line="236" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -728,8 +729,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wanchenyang/learn/StudentOs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="-313">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
