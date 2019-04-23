@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5331632b-cf2c-4e8f-aa0f-b24f97664ad0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day17/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/Copycontent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/content.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/META-INF/Day17.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/exception/ArrayIndex05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/exception/CloseException05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/exception/CustomExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/exception/MultiException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/exception/NewClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/exception/NewException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/exception/OpenException05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/exception/RunTimeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/exception/ThrowsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/exception/U18Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/guanka/DebitCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/guanka/guanka1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/guanka/guanka2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/guanka/guanka3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/guanka/noMoneyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level1_10/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level1_11/Test11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level1_12/NoScoreException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level1_12/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level1_12/Test12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_01/Test13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_02/BigToothPainException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_02/Father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_02/FrontToothPainExcption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_02/PainExecption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_02/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_02/TonguePainException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_02/ToothPainException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_03/NoLifeValueExption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_03/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_03/Test15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_04/LoginException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/out/production/Day17/com/wanchenyang/homework/level2_04/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/exception/ArrayIndex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/exception/CustomExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/exception/MultiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/exception/RunTimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/exception/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/exception/U18Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/guanka/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/guanka/guanka1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/guanka/guanka2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/guanka/guanka3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/guanka/noMoneyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level1_10/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level1_11/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level1_12/NoScoreException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level1_12/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level1_12/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_01/Test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_02/BigToothPainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_02/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_02/FrontToothPainExcption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_02/PainExecption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_02/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_02/TonguePainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_02/ToothPainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_03/NoLifeValueExption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_03/Test15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_04/LoginException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day17/src/com/wanchenyang/homework/level2_04/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/Day18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/META-INF/Day18.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/guanka/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/guanka/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/guanka/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/guanka/Test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/guanka/Test4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/guanka/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/level1/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/level1/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/level1/Test11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/level1/Test12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/level2/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/level2/Test13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/level2/Test14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/level2/Test15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/level2/Test16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/homework/level2/Test17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/learn/CalendarDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/learn/CalendarModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/learn/CalendarTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/learn/DateFormatTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/learn/DateFormatTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/learn/PrimaryDataTypeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/learn/PrintCalendarDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/learn/Self.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/learn/SimpleFormatPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/out/production/Day18/com/wanchenyang/learn/TestDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/guanka/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/guanka/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/guanka/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/guanka/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/guanka/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/guanka/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/level1/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/level1/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/level1/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/level1/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/level2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/level2/Test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/level2/Test14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/level2/Test15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/level2/Test16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/homework/level2/Test17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/learn/CalendarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/learn/CalendarModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/learn/CalendarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/learn/DateFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/learn/DateFormatTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/learn/PrimaryDataTypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/learn/PrintCalendarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/learn/Self.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/learn/SimpleFormatPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/com/wanchenyang/learn/TestDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/Day19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/out/production/Day19/com/wanchenyang/learn/TestPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/out/production/Day19/com/wanchenyang/learn/TestPattern02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/out/production/Day19/com/wanchenyang/learn/Zhenzebiaodashi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/com/wanchenyang/learn/TestPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/com/wanchenyang/learn/TestPattern02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/com/wanchenyang/learn/Zhenzebiaodashi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/Day20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/out/production/Day20/com/wanchenyang/learn/IteratorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/out/production/Day20/com/wanchenyang/learn/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/out/production/Day20/com/wanchenyang/learn/PersonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/out/production/Day20/com/wanchenyang/learn/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/out/production/Day20/com/wanchenyang/learn/TestForEach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/src/com/wanchenyang/learn/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/src/com/wanchenyang/learn/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/src/com/wanchenyang/learn/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/src/com/wanchenyang/learn/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/src/com/wanchenyang/learn/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/src/com/wanchenyang/learn/TestForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/Day21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/Collect/CopyArraylist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/Collect/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/Collect/TestArrayList01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/Collect/TestCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/Collect/TestCollection02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/META-INF/Day21.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/Victory/Associate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/GenericDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/GenericDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/MyClassType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/MyClassType02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/MyCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/MyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/MyInterface02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/MyInterfaceType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/MyInterfaceType02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/TestGeneric.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/TestMyClassType02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/TestMyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/TestMyInterface02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/com/wanchenyang/learn/TestMyclassType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/MyClassType07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/MyClassType08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/MyInterface09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/MyInterfaceDemo0209.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/MyInterfaceDemo09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka1/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka2/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka2/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka2/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka2/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka2/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka2/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka2/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka2/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka2/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka2/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka2/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka3/Associate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka3/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka3/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/out/production/Day21/homeWork/guanka3/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/Collect/CopyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/Collect/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/Collect/TestArrayList01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/Collect/TestCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/Collect/TestCollection02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/Victory/Associate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/GenericDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/MyClassType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/MyClassType02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/MyInterface02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/MyInterfaceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/MyInterfaceType02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/TestGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/TestMyClassType02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/TestMyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/TestMyInterface02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/com/wanchenyang/learn/TestMyclassType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/MyClassType07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/MyClassType08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/MyInterface09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/MyInterfaceDemo0209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/MyInterfaceDemo09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka1/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka2/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka2/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka2/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka2/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka2/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka2/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka2/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka2/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka2/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka3/Associate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka3/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka3/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/homeWork/guanka3/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/Day22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/META-INF/Day22.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka01/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka01/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka01/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka01/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka01/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka01/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Student11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/Test12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka02/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka03/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka03/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka03/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka03/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/homework/guanka03/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/learn/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/learn/ArrayListContainsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/learn/HashSetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/learn/HashSetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/learn/LinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/learn/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/learn/QueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/out/production/Day22/com/wanchenyang/learn/StackDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka01/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka01/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka01/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka01/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka01/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Student11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka02/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/homework/guanka03/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/learn/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/learn/ArrayListContainsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/learn/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/learn/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/learn/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/learn/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/learn/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/com/wanchenyang/learn/StackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day23/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day23/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day23/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day23/Day23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day23/out/production/Day23/com/wanchenyang/learn/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day23/out/production/Day23/com/wanchenyang/learn/TestLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day23/src/com/wanchenyang/learn/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day23/src/com/wanchenyang/learn/TestLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/Day24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/META-INF/Day24.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Student08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka01/Test13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/Test15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/score.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka02/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka03/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka03/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka03/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/guanka03/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/learn/TestCollections.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/learn/TestLinkedHasMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/learn/TestMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/learn/TestMap02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/learn/playingCards.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/ArrayToCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/ArraysDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/CollectionToArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/CollectionsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/CollectionsDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/CollectionsDemo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/LinkedHashMapDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/TestAddAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/TestCollections.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/TestMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/TestMap02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/out/production/Day24/com/teacher/TestMap03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Student08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka01/Test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/Test15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/score.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka02/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/guanka03/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/learn/TestCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/learn/TestLinkedHasMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/learn/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/learn/TestMap02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/learn/playingCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/ArrayToCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/ArraysDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/CollectionToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/CollectionsDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/CollectionsDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/LinkedHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/TestAddAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/TestCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/TestMap02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24/src/com/teacher/TestMap03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day25/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day25/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day25/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day25/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day25/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day25/Day25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day25/src/com/learn/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day25/src/com/learn/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day25/src/com/learn/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/Day26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/cy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/dir/test/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/ios" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/META-INF/Day26.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka01/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka01/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka01/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka01/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka01/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka01/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka01/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka01/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka01/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka01/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka02/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka02/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka02/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka02/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka02/Test04Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka02/Test04New$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka02/Test04New.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka02/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka02/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka02/test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka03/Test01$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka03/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka03/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka03/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/homework/guanka03/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/out/production/Day26/com/learn/Test15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka01/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka01/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka01/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka01/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka01/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka01/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka01/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka01/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka01/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka01/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka02/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka02/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka02/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka02/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka02/Test04Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka02/Test04New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka02/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka02/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka02/test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/homework/guanka03/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26/src/com/learn/Test15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/CopyTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/Day27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/baidu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/copyCy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/copyTeacher.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/cy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/META-INF/Day27.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/decorator/Coffee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/decorator/Decorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/decorator/Drink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/decorator/Milk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/decorator/Suger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/decorator/TestDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01/Test12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01Test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01Test02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka01Test03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/num" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/testD/guanka01Test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/testD/guanka01Test02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/testD/guanka01Test03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka02/testD/stu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka03/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka03/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka03/Test03$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka03/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/guanka03/test01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/homework/stu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/CharStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/CopyFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/CopyTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/MyAutoClose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/OutputStreamAppend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/OutputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/test02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/test03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/test04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/test08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/out/production/Day27/com/learn/test09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/decorator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/decorator/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/decorator/Suger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/decorator/TestDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01Test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01Test02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka01Test03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/num" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/testD/guanka01Test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/testD/guanka01Test02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/testD/guanka01Test03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka02/testD/stu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/guanka03/test01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/homework/stu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/CharStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/Copy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/MyClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/OutputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/OutputStreamDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/decorator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/decorator/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/decorator/Suger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/igeek/decorator/TestDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/CharStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/CopyTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/MyAutoClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/OutputStreamAppend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/OutputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/test02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/test03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/test04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/test08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/src/com/learn/test09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/test02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/test03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/test04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/test08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day27/test09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/Day28.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/array.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/number.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/META-INF/Day28.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka01/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka01/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka01/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka01/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka01/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka01/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka01/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka01/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka01/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka01/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka01/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/apple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/copyapple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/copytest04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/test04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/guanka02/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/gunaka03/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/gunaka03/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/gunaka03/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/gunaka03/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/gunaka03/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/homework/gunaka03/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/PrintStreamPrintwriterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/SerializableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/SerializableDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Test12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/com/learn/Tets03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/out/production/Day28/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/save.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka01/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka01/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka01/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka01/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka01/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka01/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka01/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka01/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka01/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka01/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/apple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/copyapple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/copytest04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/test04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/guanka02/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/gunaka03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/gunaka03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/gunaka03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/gunaka03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/gunaka03/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/gunaka03/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/homework/gunaka03/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/PrintStreamPrintwriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/SerializableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/SerializableDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/com/learn/Tets03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/src/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/test02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/test03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/test04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/test06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/test08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/test09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day28/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/Day29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/META-INF/Day29.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/com/learn/test01/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/com/learn/test01/HardWare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/com/learn/test01/KeyBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/com/learn/test01/Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/com/learn/test01/Screen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/com/learn/test01/TestComputer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/com/learn/test01/USB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/com/learn/test02/TestString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/com/learn/test03/Classroom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/com/learn/test03/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/out/production/Day29/com/learn/test03/TestList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test01/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test01/HardWare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test01/KeyBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test01/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test01/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test01/TestComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test01/USB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test02/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test03/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test03/TestList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day29/src/com/learn/test04/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day30/META-INF/Day30.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day30/com/learn/CrudTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day30/com/learn/JbdcTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day30/com/learn/JbdcTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day30/com/learn/JdbcUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/CrudTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/JbdcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/JbdcTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/JdbcUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegexBuddyhh.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegexBuddyhh/RegexBuddy4.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegexBuddyhh/汉化文件/RegexBuddy4.CH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/JavaSE--day05 每日作业卷.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/JavaSE--day06 每日作业卷.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/JavaSE--day07每日作业卷.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/JavaSE--day08 每日作业卷.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/JavaSE--day09每日作业卷.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/JavaSE-day11每日作业卷.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/JavaSE-day12每日作业卷.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/MySQL/day04(MySQL)笔记.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/MySQL/day05(MySQL)笔记.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/MySQL/javaadvanced2_d06.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/MySQL/javaweb-mysql day19每日作业卷.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/javaadvanced1-day05.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/javaadvanced1-day06.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/javaadvanced1-day07.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/javaadvanced1-day08.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/javaadvanced1-day09.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/javaadvanced1-day10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/javaadvanced1-day11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/javaadvanced1-day12.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word/javaadvanced1-day13.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jar/commons-beanutils-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jar/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jar/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jar/jsoup-1.11.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jar/mysql-connector-java-5.1.19.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day17/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word/JavaSE-day10每日作业卷.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Word/JavaSE-day10每日作业卷.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teacher/tz" beforeDir="false" afterPath="$PROJECT_DIR$/../teacher/tz" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/learn/JdbcUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="753">
+              <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+              <folding>
+                <element signature="e#1199#1326#0" />
+                <element signature="e#1374#1426#0" />
+                <element signature="e#1455#1581#0" />
+                <element signature="e#1629#1681#0" />
+                <element signature="e#1710#1838#0" />
+                <element signature="e#1886#1938#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/learn/CrudTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="109" column="9" lean-forward="true" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getCo#0;class#CrudTest#0" />
+                <element signature="method#test02#0;class#CrudTest#0" />
+                <element signature="e#1021#1261#0" />
+                <element signature="method#test03#0;class#CrudTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/learn/MyTest01.java" />
+        <option value="$PROJECT_DIR$/src/com/learn/JbdcTest.java" />
+        <option value="$PROJECT_DIR$/src/com/learn/JbdcTest02.java" />
+        <option value="$PROJECT_DIR$/src/com/learn/JdbcUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/learn/CrudTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="421" />
+    <option name="y" value="17" />
+    <option name="width" value="1530" />
+    <option name="height" value="1065" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Day30" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day30" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day30" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day30" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day30" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day30" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day30" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555988706295" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.15.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.46375" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CrudTest">
+    <configuration name="CrudTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.CrudTest" />
+      <module name="Day30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JbdcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.JbdcTest" />
+      <module name="Day30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.MyTest01" />
+      <module name="Day30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CrudTest" />
+        <item itemvalue="Application.JbdcTest" />
+        <item itemvalue="Application.MyTest01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5331632b-cf2c-4e8f-aa0f-b24f97664ad0" name="Default Changelist" comment="" />
+      <created>1555980424086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555980424086</updated>
+      <workItem from="1555980428243" duration="8380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8380000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="337" y="14" width="1224" height="852" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14648438" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32729805" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3983287" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/learn/MyTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/learn/JbdcTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <element signature="e#1336#1424#0" />
+            <element signature="e#1434#1486#0" />
+            <element signature="e#1608#1696#0" />
+            <element signature="e#1706#1758#0" />
+            <element signature="e#1847#1937#0" />
+            <element signature="e#1886#1938#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/learn/JbdcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/learn/JdbcUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+          <folding>
+            <element signature="e#1199#1326#0" />
+            <element signature="e#1374#1426#0" />
+            <element signature="e#1455#1581#0" />
+            <element signature="e#1629#1681#0" />
+            <element signature="e#1710#1838#0" />
+            <element signature="e#1886#1938#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="94" column="54" lean-forward="true" selection-start-line="94" selection-start-column="54" selection-end-line="94" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#65869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/learn/CrudTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="109" column="9" lean-forward="true" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getCo#0;class#CrudTest#0" />
+            <element signature="method#test02#0;class#CrudTest#0" />
+            <element signature="e#1021#1261#0" />
+            <element signature="method#test03#0;class#CrudTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46375" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Day30</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46375" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.19</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
